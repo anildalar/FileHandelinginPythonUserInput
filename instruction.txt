@@ -1,0 +1,13 @@
+Task 
+
+Write a Python Program which 
+1. Create a file
+2. Write the content in the file
+
+The Python program will take the input from user
+1. FileName
+2. File Content
+
+1. File OPen
+
+2. File CLose
